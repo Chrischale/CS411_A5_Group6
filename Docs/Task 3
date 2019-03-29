@@ -1,0 +1,17 @@
+Benjamin Leopold Roth Inglis
+Melissa Xiying Wong
+Jinzhi Han
+Chrischale Hiruni Panditharathne
+
+Sec: A5 Group 6 -  Reasons for Chosen Technology Stacks
+
+
+For our fitness app, Bumbleat, Group 6 plans on using Javascript on both the front and back end, for ease of reading as well as to avoid any translation confusions in the long run. 
+We are using Angular JS with the Webstorm IDE for this purpose. We debated over a few options and settles for Angular JS because it supports code for all web browsers. 
+As a group using different default browsers, we found this feature convenient for our use, as well as a good idea in terms of testing on different browsers. 
+Our research on Angular also has shown us that it will help us in unit testing, and provides reusable components, which are important features to our application. 
+
+We are using Unirest with JQuery for API calls. JQuery will allow us to use simple HTTP requests to the API, and simplicity is the main factor that contributed to this decision. 
+This, too, supports cross-browser functions as well. 
+
+For our database, we plan on using MongoDB, as per Professor Donham’s recommendations in class, purely because of curiosity as to its functionality.
